@@ -45,7 +45,7 @@ class ReactHeader extends Component {
               </Link>
             </Menu.Item>
             <Menu.Item key="source">
-              <a rel="noopener noreferrer" target="_blank" href="https://github.com/danielc92/react-crypto-app">
+              <a rel="noopener noreferrer" target="_blank" href="https://github.com/iamzaidakbar/react-crypto-app-master">
                 <GithubOutlined style={iconStyle}/>Source
               </a>
             </Menu.Item>
